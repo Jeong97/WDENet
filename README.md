@@ -102,10 +102,16 @@ Experiments are performed for different image restoration tasks including, gauss
 <summary><strong>Gaussian Grayscale Image Denoising</strong></summary>
 <br>
 
-- Gaussian color image denoising results of Urban100 with noise level 50.
+- Gaussian grayscale image denoising results of Set12 with noise level 15.
 
 <img src="img/grayscale_image_denoising_result-1.jpg" alt="grayscale_image_denoising_result-1.jpg">
+
+- Gaussian grayscale image denoising results of Set12 with noise level 25.
+
 <img src="img/grayscale_image_denoising_result-2.jpg" alt="grayscale_image_denoising_result-2.jpg">
+
+- Gaussian grayscale image denoising results of BSD68 with noise level 50.
+
 <img src="img/grayscale_image_denoising_result-3.jpg" alt="grayscale_image_denoising_result-3.jpg">
 </details>
 
